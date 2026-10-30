@@ -1,0 +1,6 @@
+e:\govno\ConsoleApp1\ChartShared\bin\Debug\ChartShared.dll
+e:\govno\ConsoleApp1\ChartShared\bin\Debug\ChartShared.pdb
+e:\govno\ConsoleApp1\ChartShared\obj\Debug\ChartShared.csproj.AssemblyReference.cache
+e:\govno\ConsoleApp1\ChartShared\obj\Debug\ChartShared.csproj.CoreCompileInputs.cache
+e:\govno\ConsoleApp1\ChartShared\obj\Debug\ChartShared.dll
+e:\govno\ConsoleApp1\ChartShared\obj\Debug\ChartShared.pdb

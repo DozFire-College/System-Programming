@@ -1,0 +1,6 @@
+e:\govno\ConsoleApp1\ProcessTreeApp\bin\Debug\ProcessTreeApp.exe
+e:\govno\ConsoleApp1\ProcessTreeApp\bin\Debug\ProcessTreeApp.pdb
+e:\govno\ConsoleApp1\ProcessTreeApp\obj\Debug\ProcessTreeApp.csproj.AssemblyReference.cache
+e:\govno\ConsoleApp1\ProcessTreeApp\obj\Debug\ProcessTreeApp.csproj.CoreCompileInputs.cache
+e:\govno\ConsoleApp1\ProcessTreeApp\obj\Debug\ProcessTreeApp.exe
+e:\govno\ConsoleApp1\ProcessTreeApp\obj\Debug\ProcessTreeApp.pdb

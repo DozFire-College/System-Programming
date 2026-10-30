@@ -1,0 +1,9 @@
+e:\govno\ConsoleApp1\ChartInputApp\bin\Debug\ChartInputApp.exe
+e:\govno\ConsoleApp1\ChartInputApp\bin\Debug\ChartInputApp.pdb
+e:\govno\ConsoleApp1\ChartInputApp\bin\Debug\ChartShared.dll
+e:\govno\ConsoleApp1\ChartInputApp\bin\Debug\ChartShared.pdb
+e:\govno\ConsoleApp1\ChartInputApp\obj\Debug\ChartInputApp.csproj.AssemblyReference.cache
+e:\govno\ConsoleApp1\ChartInputApp\obj\Debug\ChartInputApp.csproj.CoreCompileInputs.cache
+e:\govno\ConsoleApp1\ChartInputApp\obj\Debug\ChartInp.99B41757.Up2Date
+e:\govno\ConsoleApp1\ChartInputApp\obj\Debug\ChartInputApp.exe
+e:\govno\ConsoleApp1\ChartInputApp\obj\Debug\ChartInputApp.pdb

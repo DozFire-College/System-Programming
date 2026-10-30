@@ -1,0 +1,6 @@
+e:\govno\ConsoleApp1\ChartLauncher\bin\Debug\ChartLauncher.exe
+e:\govno\ConsoleApp1\ChartLauncher\bin\Debug\ChartLauncher.pdb
+e:\govno\ConsoleApp1\ChartLauncher\obj\Debug\ChartLauncher.csproj.AssemblyReference.cache
+e:\govno\ConsoleApp1\ChartLauncher\obj\Debug\ChartLauncher.csproj.CoreCompileInputs.cache
+e:\govno\ConsoleApp1\ChartLauncher\obj\Debug\ChartLauncher.exe
+e:\govno\ConsoleApp1\ChartLauncher\obj\Debug\ChartLauncher.pdb
