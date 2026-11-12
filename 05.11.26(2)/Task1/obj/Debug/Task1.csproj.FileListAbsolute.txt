@@ -1,0 +1,6 @@
+E:\govno\WindowsFormsApp6\Task1\bin\Debug\Task1.exe
+E:\govno\WindowsFormsApp6\Task1\bin\Debug\Task1.pdb
+E:\govno\WindowsFormsApp6\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+E:\govno\WindowsFormsApp6\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\govno\WindowsFormsApp6\Task1\obj\Debug\Task1.exe
+E:\govno\WindowsFormsApp6\Task1\obj\Debug\Task1.pdb
