@@ -1,0 +1,8 @@
+E:\govno\12.11.26\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+E:\govno\12.11.26\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+E:\govno\12.11.26\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+E:\govno\12.11.26\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+E:\govno\12.11.26\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+E:\govno\12.11.26\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+E:\govno\12.11.26\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+E:\govno\12.11.26\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe.config
